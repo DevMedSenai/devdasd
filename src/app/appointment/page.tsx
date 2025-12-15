@@ -31,7 +31,7 @@ export default function AppointmentPage() {
           {/* Ilustração */}
           <div className="hidden md:flex flex-col items-center text-center">
             <img
-              src="/Logo.png" 
+              src="/logo.png" 
               alt="Consulta médica"
               className="w-[320px] h-auto object-contain drop-shadow"
             />
